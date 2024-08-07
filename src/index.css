@@ -130,5 +130,6 @@
   }
 
   body {
+    @apply bg-[#f8f8f8];
   }
 }
